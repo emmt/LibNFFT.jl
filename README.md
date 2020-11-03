@@ -31,8 +31,8 @@ pkg> add https://github.com/emmt/LibNFFT.jl
 [license-url]: ./LICENSE.md
 [license-img]: http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat
 
-[travis-img]: https://travis-ci.org/emmt/LibNFFT.jl.svg?branch=master
-[travis-url]: https://travis-ci.org/emmt/LibNFFT.jl
+[travis-img]: https://travis-ci.com/emmt/LibNFFT.jl.svg?branch=master
+[travis-url]: https://travis-ci.com/emmt/LibNFFT.jl
 
 [appveyor-img]: https://ci.appveyor.com/api/projects/status/github/emmt/LibNFFT.jl?branch=master
 [appveyor-url]: https://ci.appveyor.com/project/emmt/LibNFFT-jl/branch/master
